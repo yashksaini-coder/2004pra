@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+<br>
+<div align="center">
+  <img src="dev-card.png" alt="Dev Card">
+</div>
