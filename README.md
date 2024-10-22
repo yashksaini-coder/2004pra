@@ -1,4 +1,5 @@
 
+![Introduction](path_to_your_svg/intro.svg)
 
 
 </div>
