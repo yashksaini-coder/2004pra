@@ -1,6 +1,4 @@
-
-![Introduction](path_to_your_svg/intro.svg)
-
+![Introduction](https://github.com/2004pra/2004pra/blob/main/Prashant%20Mishra%20Front%20End%20Developer.gif?raw=true)
 
 </div>
 <br>
